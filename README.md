@@ -3,10 +3,7 @@
 ### App Description
 `TODO://` CodePath iOS Prework
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
 ![](https://i.imgur.com/whgvLd2.gif)
-
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
